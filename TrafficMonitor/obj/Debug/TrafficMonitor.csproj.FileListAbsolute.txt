@@ -1,0 +1,13 @@
+F:\Code\TrafficMonitor\bin\Debug\TrafficMonitor.exe.config
+F:\Code\TrafficMonitor\bin\Debug\TrafficMonitor.exe
+F:\Code\TrafficMonitor\bin\Debug\TrafficMonitor.pdb
+F:\Code\TrafficMonitor\obj\Debug\TrafficMonitor.csprojResolveAssemblyReference.cache
+F:\Code\TrafficMonitor\obj\Debug\MainWindow.baml
+F:\Code\TrafficMonitor\obj\Debug\MainWindow.g.cs
+F:\Code\TrafficMonitor\obj\Debug\App.g.cs
+F:\Code\TrafficMonitor\obj\Debug\TrafficMonitor_MarkupCompile.cache
+F:\Code\TrafficMonitor\obj\Debug\TrafficMonitor.g.resources
+F:\Code\TrafficMonitor\obj\Debug\TrafficMonitor.Properties.Resources.resources
+F:\Code\TrafficMonitor\obj\Debug\TrafficMonitor.csproj.GenerateResource.Cache
+F:\Code\TrafficMonitor\obj\Debug\TrafficMonitor.exe
+F:\Code\TrafficMonitor\obj\Debug\TrafficMonitor.pdb
